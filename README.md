@@ -3,7 +3,7 @@
 ## Description
 Traditional Chinese SMS corpus, 10 million in total, real traditional Chinese spoken language text data; only contains text messages; the content is stored in txt format; the data set can be used for natural language understanding and related tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/182?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/182?source=Github
 
 
 # Specifications
